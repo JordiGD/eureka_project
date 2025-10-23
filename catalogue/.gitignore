@@ -1,0 +1,57 @@
+# ==========================
+# Archivos de entorno y sistema
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================
+# Archivos de IDEs
+# ==========================
+# JetBrains (PyCharm, IntelliJ IDEA)
+.idea/
+
+# VS Code
+.vscode/
+
+# ==========================
+# Archivos de sistema operativo
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Logs y archivos temporales
+# ==========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ==========================
+# Archivos de dependencias
+# ==========================
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+downloads/
+sdist/
+wheels/
+*.egg
+
+# ==========================
+# Configuración o datos locales
+# ==========================
+*.sqlite3
+*.db
+local_settings.py

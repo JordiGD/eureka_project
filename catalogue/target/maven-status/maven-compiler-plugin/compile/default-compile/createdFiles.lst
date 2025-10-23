@@ -1,0 +1,9 @@
+co\edu\uptc\dto\FoodItemDTO.class
+co\edu\uptc\dto\RestaurantDTO.class
+co\edu\uptc\mapper\FoodItemMapper.class
+co\edu\uptc\repo\FoodItemRepo.class
+co\edu\uptc\service\FoodItemService.class
+co\edu\uptc\controller\FoodItemController.class
+co\edu\uptc\entity\FoodItem.class
+co\edu\uptc\mapper\FoodItemMapperImpl.class
+co\edu\uptc\foodCatalogue\FoodCatalogueApplication.class
